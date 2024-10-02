@@ -1,7 +1,7 @@
 package main
 
 import (
-	gcpstaticwebsitev1 "buf.build/gen/go/plantoncloud/project-planton/protocolbuffers/go/project/planton/apis/provider/gcp/gcpstaticwebsite/v1"
+	gcpstaticwebsitev1 "buf.build/gen/go/plantoncloud/project-planton/protocolbuffers/go/project/planton/provider/gcp/gcpstaticwebsite/v1"
 	"github.com/pkg/errors"
 	"github.com/plantoncloud/gcp-static-website-pulumi-module/pkg"
 	"github.com/plantoncloud/pulumi-module-golang-commons/pkg/stackinput"
